@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.container{
+     width:60%;
+     margin:auto;
+     
+
+}
+.icon-area li{
+     list-style:none;
+
+
+}
+
+.icon-area li{
+    display:inline-block;
+
+
+}
+
+.icon-area ul li a{
+      background:blue ;
+      color:#ffff;
+      padding:30px 40px;
+      font-size:40px;
+      text-decoration:none;
+      display:block;
+
+}
+
+.icon-area ul li a:hover{
+    background:gray ;
+    color:#000;
+    border-radius:10px;
+
+}
